@@ -1,4 +1,4 @@
-https://avatars.githubusercontent.com/u/84949247?s=400&u=06bb2e3c37fe754c2de8085af7f6e8c272c4eddb&v=4
+[https://avatars.githubusercontent.com/u/84949247?s=400&u=06bb2e3c37fe754c2de8085af7f6e8c272c4eddb&v=4](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 ### Hi there 👋, I'm M Bappy
 #### Web Developer
