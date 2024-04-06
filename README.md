@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp) 
+
 <img align="center" src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp" alt="m-bappy" />
 <h1 align="center">Hi 👋, I'm M Bappy</h1>
 <h3 align="center">A passionate frontend developer / WordPress Developer from Bangladesh</h3>
