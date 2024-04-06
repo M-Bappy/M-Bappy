@@ -1,6 +1,6 @@
 
 [![MasterHead](https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp) 
-<img src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp" alt="m-bappy" />
+<img align="center" src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp" alt="m-bappy" />
 <h1 align="center">Hi 👋, I'm M Bappy</h1>
 <h3 align="center">A passionate frontend developer / WordPress Developer from Bangladesh</h3>
 <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyN2cwaHBxNHMyc24yYmNob2hxNm51ZXBmYXJ1a2hyZDRhNzdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt=""> -->
