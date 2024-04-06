@@ -11,8 +11,6 @@
 
 <p align="center"> <a href="https://twitter.com/mbappy101" target="blank"><img src="https://img.shields.io/twitter/follow/mbappy101?logo=twitter&style=for-the-badge" alt="mbappy101" /></a> </p>
 
-- 🔭 I’m currently working on [ODINGOD](https://odingod.io/)
-
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **mbappycontact@gmail.com**
