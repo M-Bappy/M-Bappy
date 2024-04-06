@@ -1,9 +1,8 @@
-[![MasterHead]([https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyN2cwaHBxNHMyc24yYmNob2hxNm51ZXBmYXJ1a2hyZDRhNzdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
-)]([https://rishavchanda.io](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyN2cwaHBxNHMyc24yYmNob2hxNm51ZXBmYXJ1a2hyZDRhNzdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+[![MasterHead]([https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif...](https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp
 )
 <h1 align="center">Hi 👋, I'm M Bappy</h1>
 <h3 align="center">A passionate frontend developer / WordPress Developer from Bangladesh</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyN2cwaHBxNHMyc24yYmNob2hxNm51ZXBmYXJ1a2hyZDRhNzdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="">
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkyN2cwaHBxNHMyc24yYmNob2hxNm51ZXBmYXJ1a2hyZDRhNzdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt=""> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bappy&label=Profile%20views&color=0e75b6&style=flat" alt="m-bappy" /> </p>
