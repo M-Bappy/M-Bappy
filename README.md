@@ -13,7 +13,7 @@
 
 
 <p align="center">📫 How to reach me  <a href="mailto:mbappycontact@gmail.com" target="blank">mbappycontact@gmail.com</a> </p>
-<p align="center">📫 More about me  <a href="https://mdbappy.com/" target="blank">[**mbappycontact@gmail.com**](https://mdbappy.com/)</a> </p>
+<p align="center">📫 Website <a href="https://mdbappy.com/" target="blank">https://mdbappy.com/</a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
